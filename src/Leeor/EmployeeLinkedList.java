@@ -157,6 +157,7 @@ public class EmployeeLinkedList
             newEmployeeNode.getPrev().setNext(newEmployeeNode);
         }
 
+        
         size++;
     }
 }
